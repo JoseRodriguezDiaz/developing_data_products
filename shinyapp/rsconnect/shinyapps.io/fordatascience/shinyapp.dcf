@@ -1,0 +1,8 @@
+name: shinyapp
+account: fordatascience
+server: shinyapps.io
+bundleId: 316796
+url: https://fordatascience.shinyapps.io/shinyapp
+when: 1448231605.60731
+asMultiple: FALSE
+asStatic: FALSE
